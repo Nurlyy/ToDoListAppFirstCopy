@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "290823469627",
+    "firebase_url": "https://todolistappfirstcopy-default-rtdb.firebaseio.com",
+    "project_id": "todolistappfirstcopy",
+    "storage_bucket": "todolistappfirstcopy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290823469627:android:47352e2f4e7f300dad3a1e",
+        "android_client_info": {
+          "package_name": "com.example.todolistappfirstcopy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290823469627-3a2fac6sku2rcab74vapc8h3h80ca3ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfSurTrybKnQEBTiZg-MfcuXzVqtmw6II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290823469627-3a2fac6sku2rcab74vapc8h3h80ca3ql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
