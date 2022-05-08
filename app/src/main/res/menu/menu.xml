@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item android:title="Tasks">
+        <menu>
+            <item android:title="All tasks" android:id="@+id/all_tasks"/>
+            <item android:title="Today tasks" android:id="@+id/today_tasks"/>
+            <item android:title="Finished tasks" android:id="@+id/finished_tasks"/>
+            <item android:title="Deleted tasks" android:id="@+id/deleted_tasks"/>
+        </menu>
+    </item>
+    <item android:title="Profile">
+        <menu>
+            <item android:title="profile" android:id="@+id/profile"/>
+        </menu>
+    </item>
+</menu>

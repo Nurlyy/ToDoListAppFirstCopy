@@ -4,11 +4,16 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Nurlytan/Desktop/AndroidStudio/Projects/ToDoListAppFirstCopy/app/src/main/res/drawable/edit_text_bg.xml" value="0.227" />
+        <entry key="..\:/Users/Nurlytan/Desktop/AndroidStudio/Projects/ToDoListAppFirstCopy/app/src/main/res/layout/active_task_recycler_view_item.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/Nurlytan/Desktop/AndroidStudio/Projects/ToDoListAppFirstCopy/app/src/main/res/layout/activity_first.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/Nurlytan/Desktop/AndroidStudio/Projects/ToDoListAppFirstCopy/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/Nurlytan/Desktop/AndroidStudio/Projects/ToDoListAppFirstCopy/app/src/main/res/layout/activity_sign_up_in.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Nurlytan/Desktop/AndroidStudio/Projects/ToDoListAppFirstCopy/app/src/main/res/layout/fragment_all_tasks.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/Nurlytan/Desktop/AndroidStudio/Projects/ToDoListAppFirstCopy/app/src/main/res/layout/fragment_sign_in.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/Nurlytan/Desktop/AndroidStudio/Projects/ToDoListAppFirstCopy/app/src/main/res/layout/fragment_sign_up.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Nurlytan/Desktop/AndroidStudio/Projects/ToDoListAppFirstCopy/app/src/main/res/layout/nav_header.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Nurlytan/Desktop/AndroidStudio/Projects/ToDoListAppFirstCopy/app/src/main/res/layout/toolbar.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Nurlytan/Desktop/AndroidStudio/Projects/ToDoListAppFirstCopy/app/src/main/res/menu/menu.xml" value="0.27447916666666666" />
       </map>
     </option>
   </component>
